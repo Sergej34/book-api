@@ -1,0 +1,13 @@
+{
+    "name": "meditations",
+    "author": "Mark Aurelius",
+    "year": 1984,
+    "currency": "EUR",
+    "price": 30,
+    "isBestseller": true,
+    "tags": [
+        "philosophy",
+        "roman",
+        "psychology"
+    ]
+}
